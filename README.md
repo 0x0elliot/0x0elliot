@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya
 
-I'm a dev and security researcher, who participated in Google Summer of Code '22 with @intelowlproject and @honeynet. I will also be mentoring for them in GSoC '23.
+I'm a dev and security researcher, who participated in Google Summer of Code '22 with <a href="https://github.com/intelowlproject">@IntelOwlProject</a> and <a href="https://github.com/honeynet">@HoneyNet</a>. I will also be mentoring for them in Google Summer Of Code '23.
 
 I like backend, blockchain, security, devops and a few other things here and there.
 
