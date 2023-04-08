@@ -4,6 +4,8 @@ I'm a dev and security researcher, who participated in Google Summer of Code '22
 
 I like backend, blockchain, security, devops and a few other things here and there.
 
+Used to volunteer for building tech for infosec communities. Now, helping build companies and open-source software. 
+
 You can reach out to me through the following means:
 
 - Twitter: [@0x0elliot](https://twitter.com/0x0elliot)
